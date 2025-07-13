@@ -10,6 +10,10 @@
 
 3. **Tic-Tac-Toe with Minimax Algorithm**  
    - A Tic-Tac-Toe game featuring an AI opponent that uses the minimax algorithm.  
-   - [Access Project]( https://github.com/majdfo/Games/tree/main/Tic-Tac-Toe%20with%20(minimax) )  
+   - [Access Project]( https://github.com/majdfo/Games/tree/main/Tic-Tac-Toe%20with%20(minimax) )
+
+4. **Breakout Game with Timer, Lives, Power-Ups, and Sounds**  
+   - A custom arcade-style breakout game with enhanced features like sound effects, real-time timer, heart-based lives, and falling power-ups.  
+   - [Access Project](https://github.com/majdfo/Games/tree/main/Breakout%20Game)
 
 Feel free to explore each project and contribute! 🚀   
